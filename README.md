@@ -1,3 +1,4 @@
+
 # EXP-5-CHARACTERISTICS-OF-SCR
 1. AIM
 To study and plot the V-I characteristics of a Silicon Controlled Rectifier (SCR), and to determine its forward breakover voltage and holding current.
@@ -47,7 +48,8 @@ VAK (V)	IAK (mA)
 	
 	
 	
-	
+	<img width="1534" height="816" alt="ED Ex 5" src="https://github.com/user-attachments/assets/03181303-3283-41e1-8531-ca6a440be628" />
+
 	
 	
 	
