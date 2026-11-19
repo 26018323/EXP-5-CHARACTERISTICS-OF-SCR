@@ -54,7 +54,8 @@ Circit diagram :
 	
 Graph :
 
-	<img width="933" height="193" alt="ed exp 5 graph" src="https://github.com/user-attachments/assets/0953c63b-4426-4846-8330-14d2ce9c3e9c" />
+	
+<img width="933" height="193" alt="ed exp 5 graph" src="https://github.com/user-attachments/assets/a80e9c91-b733-4d85-aeb1-ebd37cc225b6" />
 
 	
 	
