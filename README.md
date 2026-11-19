@@ -47,24 +47,22 @@ VAK (V)	IAK (mA)
 	
 	
 	
+Circit diagram :	
+   
+<img width="874" height="172" alt="ed ex 5 circuit diagram" src="https://github.com/user-attachments/assets/4cdd2e1f-dd97-406e-ab4f-b59b7b654a37" />
+
 	
-	<img width="1534" height="816" alt="ED Ex 5" src="https://github.com/user-attachments/assets/03181303-3283-41e1-8531-ca6a440be628" />
+Graph :
+
+	<img width="933" height="193" alt="ed exp 5 graph" src="https://github.com/user-attachments/assets/0953c63b-4426-4846-8330-14d2ce9c3e9c" />
 
 	
 	
 	
 	
 	
-	
-	
-	
-	
-9. CALCULATIONS / GRAPH
-Forward breakover voltage, VBO = 11.5 V (from the recorded observation).
-Holding voltage, VH ≈ 0.72 V (from the recorded observation).
-Holding current, IH ≈ 12.4 mA (as recorded in the supplied observation/result).
-Forward resistance, RF = ΔVAK / ΔIAK, to be obtained from the slope of the appropriate portion of the plotted characteristic.
-10. RESULT
+
+9. RESULT
 The V-I characteristics of the SCR have been studied and plotted.
 Forward breakover voltage, VBO = 11.5 V.
 Holding voltage, VH = 0.72 V.
